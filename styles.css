@@ -131,6 +131,43 @@ main {
     line-height: 1.8;
 }
 
+.content-text h3 {
+    color: #2c3e50;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.content-text h3:first-of-type {
+    margin-top: 0;
+}
+
+.content-text ul {
+    margin-bottom: 1.5rem;
+    margin-left: 2rem;
+    line-height: 1.8;
+}
+
+.content-text li {
+    margin-bottom: 0.5rem;
+}
+
+.content-text a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.content-text a:hover {
+    text-decoration: underline;
+}
+
+.last-updated {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+    font-style: italic;
+}
+
 .breadcrumb {
     margin-bottom: 1rem;
     font-size: 0.9rem;
