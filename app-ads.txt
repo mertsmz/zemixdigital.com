@@ -1,11 +1,1 @@
-# AdMob Verification File
-# Bu dosya AdMob doğrulaması için gereklidir.
-# AdMob hesabınızdan aldığınız doğrulama kodunu buraya ekleyin.
-
-# Örnek format:
-# google-site-verification=XXXXXXXXXXXXX
-
-# AdMob hesabınızdan bu dosyayı doğrulamak için:
-# 1. AdMob Console'a giriş yapın
-# 2. App settings > App verification bölümüne gidin
-# 3. Verilen kodu buraya ekleyin
+google.com, pub-1356690257494657, DIRECT, f08c47fec0942fa0
