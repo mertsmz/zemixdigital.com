@@ -1,0 +1,2 @@
+# Security.txt file
+# Bu dosya AdMob doğrulaması için de kullanılabilir
