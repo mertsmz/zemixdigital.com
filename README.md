@@ -12,7 +12,7 @@ Bu website, Zemix Digital ve Three Realms uygulaması için oluşturulmuştur.
 
 ## AdMob Doğrulama
 
-AdMob doğrulaması için `admob.txt` dosyası oluşturulmuştur. AdMob hesabınızdan aldığınız doğrulama kodunu bu dosyaya ekleyin.
+AdMob doğrulaması için `app-ads.txt` dosyası oluşturulmuştur. AdMob hesabınızdan aldığınız doğrulama kodunu bu dosyaya ekleyin.
 
 ## Deploy Talimatları
 
@@ -154,8 +154,8 @@ AdMob doğrulaması için `admob.txt` dosyası oluşturulmuştur. AdMob hesabın
 1. **AdMob Console'a giriş yapın**
 2. **App settings > App verification** bölümüne gidin
 3. **Website verification** seçeneğini seçin
-4. **Verilen kodu** `admob.txt` dosyasına ekleyin
-5. **Dosyayı website root'una yükleyin** (örn: `https://zemixdigital.com/admob.txt`)
+4. **Verilen kodu** `app-ads.txt` dosyasına ekleyin
+5. **Dosyayı website root'una yükleyin** (örn: `https://zemixdigital.com/app-ads.txt`)
 6. **AdMob'da doğrulamayı tamamlayın**
 
 ### 7. İçerik Güncelleme
@@ -189,4 +189,4 @@ Domain sağlayıcınızın DNS yönetim panelinde:
 
 - DNS değişiklikleri 24-48 saat içinde yayınlanabilir
 - HTTPS için SSL sertifikası kullanın (Let's Encrypt ücretsiz)
-- `admob.txt` dosyası website root'unda erişilebilir olmalı
+- `app-ads.txt` dosyası website root'unda erişilebilir olmalı
