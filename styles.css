@@ -168,6 +168,38 @@ main {
     font-style: italic;
 }
 
+.app-links {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e0e0e0;
+}
+
+.app-links h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+.app-links ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.app-links li {
+    margin-bottom: 0.75rem;
+}
+
+.app-links a {
+    color: #3498db;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.app-links a:hover {
+    text-decoration: underline;
+}
+
 .breadcrumb {
     margin-bottom: 1rem;
     font-size: 0.9rem;
